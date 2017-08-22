@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "622293550331",
+    "project_id": "learned-helper-176415"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622293550331:android:3c88fc38d34dd642",
+        "android_client_info": {
+          "package_name": "com.example.anhtu.demologingamil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622293550331-13v2fo6gd258frij4aj6r7ivjhc96d5b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "622293550331-6krr9unoorfvds74ks4kisfph3hngmaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anhtu.demologingamil",
+            "certificate_hash": "7acd4603dec21c5d40e339205580eb35d70db0e4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSo0VEz6CbdYPRuQpxDdmF5xHtQR7pXr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
